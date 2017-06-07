@@ -3,4 +3,4 @@
 
 
 ## Screenshot
-https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo3.gif
+![](https://github.com/liuki2014/TypeWriterTextView/blob/master/screenshot/2017-06-07%2014_51_01.gif)
