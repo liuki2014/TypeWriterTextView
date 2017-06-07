@@ -1,5 +1,5 @@
 # TypeWriterTextView
-开眼的打字机效果TextView
+开眼的打字机效果
 
 
 ## Screenshot
